@@ -3,6 +3,7 @@ from .agenbio import *
 from .agilent import *
 from .alpaqua import *
 from .azenta import *
+from .bioer import *
 from .biorad import *
 from .boekel import *
 from .btx import *
@@ -29,6 +30,7 @@ from .errors import ResourceNotFoundError
 from .greiner import *
 from .hamilton import *
 from .head_tool import HeadTool
+from .imcs import *
 from .itemized_resource import ItemizedResource
 from .lid import Lid, Liddable
 from .liquid import Liquid
